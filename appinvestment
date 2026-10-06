@@ -10,3 +10,7 @@ simulador-investimentos-fii/
 │
 └── documentos/
     └── metodologia.md
+
+## Visualização do simulador
+
+![Simulador de Investimentos](imagens/simulador-fii.png)
