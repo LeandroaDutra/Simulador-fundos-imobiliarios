@@ -43,8 +43,4 @@ Observação
 
 Este simulador possui finalidade educacional e não constitui recomendação de investimento.
 
-
-
-## Visualização do simulador
-
-![Simulador de Investimentos](imagens/simulador-fii.png)
+<img width="652" height="985" alt="Captura de tela 2026-10-06 145320" src="https://github.com/user-attachments/assets/680e3374-5037-4770-b63a-a8e0aad0f439" />
