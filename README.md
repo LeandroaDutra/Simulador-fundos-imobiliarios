@@ -42,3 +42,9 @@ Agressivo	R$ 1.500	15 anos	1,0%
 Observação
 
 Este simulador possui finalidade educacional e não constitui recomendação de investimento.
+
+
+
+## Visualização do simulador
+
+![Simulador de Investimentos](imagens/simulador-fii.png)
