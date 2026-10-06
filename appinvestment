@@ -1,1 +1,12 @@
-
+simulador-investimentos-fii/
+│
+├── README.md
+│
+├── excel/
+│   └── Simulador_Investimentos_FII.xlsx
+│
+├── imagens/
+│   └── simulador-fii.png
+│
+└── documentos/
+    └── metodologia.md
