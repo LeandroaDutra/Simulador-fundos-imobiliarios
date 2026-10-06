@@ -43,5 +43,5 @@ Observação
 
 Este simulador possui finalidade educacional e não constitui recomendação de investimento.
 
-
-
+<img width="652" height="985" alt="Captura de tela 2026-10-06 145320" src="https://github.com/user-attachments/assets/77801d53-9817-4e9a-bbc2-d5d83206726f" />
+[APP Investment.xlsx](https://github.com/user-attachments/files/33121279/APP.Investment.xlsx)
