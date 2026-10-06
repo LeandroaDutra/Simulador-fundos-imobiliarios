@@ -45,6 +45,3 @@ Este simulador possui finalidade educacional e não constitui recomendação de 
 
 
 
-## Visualização do simulador
-
-![Simulador de Investimentos](imagens/simulador-fii.png)
